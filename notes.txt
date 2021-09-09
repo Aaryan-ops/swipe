@@ -1,0 +1,6 @@
+backend : mongodb, express, mongoose
+deploy frontend : firebase. host the front end
+material ui : icons
+npm install @material-ui/core
+npm install @material-ui/icons
+npm i react-tinder-card
